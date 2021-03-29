@@ -1,5 +1,6 @@
 # -*- coding:utf-8 _*-
 from tools.pylog import MyLog
+from tools.dict_value import res
 
 """期望值与实际结果做判断"""
 def assert_in(assertexcepted, assertresult):
