@@ -129,3 +129,312 @@
 2021-03-25 13:59:49,017-INFO-pylog.py-py日志-日志信息：这个是从excel中获取的断言数据：1
 2021-03-25 13:59:49,017-INFO-pylog.py-py日志-日志信息：这个是从响应中获取的实际数据：1
 2021-03-25 13:59:49,064-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:19:43,567-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:19:43,949-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:19:43,949-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:19:43,949-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:19:43,950-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTA5501180FD8F7BD64F1BB66A0F135655', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'xtmnXvmC2a6j42JdXoqIguK9nWXiMDmC', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:19:43,951-INFO-pylog.py-py日志-日志信息：这个是从excel中获取的断言数据：1
+2021-03-29 16:19:43,951-INFO-pylog.py-py日志-日志信息：这个是从响应中获取的实际数据：1
+2021-03-29 16:19:44,017-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:19:57,691-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:19:57,972-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:19:57,973-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:19:57,973-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:19:57,973-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT289FF8975F1C48450A919DDE00D226AC', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'Z3jkLlEFh2UiB8FRpPqOYUBQfwbNRt7X', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:19:57,974-INFO-pylog.py-py日志-日志信息：这个是从excel中获取的断言数据：1
+2021-03-29 16:19:57,974-INFO-pylog.py-py日志-日志信息：这个是从响应中获取的实际数据：1
+2021-03-29 16:19:58,024-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:21:29,271-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:21:29,550-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:21:29,550-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:21:29,550-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:21:29,551-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT3A9F3B4CB48651F5B7ECAD3947758D8F', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'QJqqROU5GV0DXyUvxwDp3c74n17U14PB', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:21:29,552-INFO-pylog.py-py日志-日志信息：这个是从excel中获取的断言数据：1
+2021-03-29 16:21:29,553-INFO-pylog.py-py日志-日志信息：这个是从响应中获取的实际数据：1
+2021-03-29 16:21:29,603-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:23:04,251-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:23:04,541-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:23:04,542-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:23:04,542-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:23:04,542-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTE3285314C0C3D146E37BB5D4188073CE', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': '0q3sW9aZYJ5jENdW2q1uZMYAXmf6UEg1', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:23:04,543-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:24:05,745-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:24:06,117-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:24:06,117-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:24:06,117-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:24:06,118-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT0A970A2D693D6C7CD0857FCB34A4EDB4', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'U01yhEx2deuWNYKnGmDRRCuoV0709XdP', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:24:06,119-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:28:31,546-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:28:31,861-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:28:31,862-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:28:31,862-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:28:31,862-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTE3920A610ED545978DF3D7E717E59198', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'ir1zPGzy09IXy6Gt2IQ0xwAAJbJ3kMnP', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:28:31,865-INFO-pylog.py-py日志-日志信息：请填写测试期望值！
+2021-03-29 16:28:31,865-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:28:43,648-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:28:43,938-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:28:43,938-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:28:43,939-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:28:43,939-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT3C4D66E7E6833C80A58CEC8C095CAC07', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'TIWahlMlGtmtRTNuejOLX3ASPMndelM2', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:28:43,974-INFO-pylog.py-py日志-日志信息：请填写测试期望值！
+2021-03-29 16:28:43,974-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:29:12,525-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:29:12,841-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:29:12,841-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:29:12,841-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:29:12,842-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTF3A88FC2A292E746FF9213561CFD92B3', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'gcNodSlvVCpq0KrXxTedTFMpWkycSUud', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:29:12,843-INFO-pylog.py-py日志-日志信息：请填写测试期望值！
+2021-03-29 16:29:12,844-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:29:35,788-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:29:36,064-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:29:36,065-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:29:36,065-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:29:36,065-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT9C35DD5BFE337F3A981C3A675D999EFA', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'EJzrkZyj2HCYbKxPIZewLlwYHzqSvZ4e', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:29:36,067-INFO-pylog.py-py日志-日志信息：请填写测试期望值！
+2021-03-29 16:29:36,067-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:29:45,115-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:29:45,406-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:29:45,406-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:29:45,407-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:29:45,408-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTE4B9271858ADD0903B44C2AAAFABF1C5', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': '9RSjre2gEgPL4dtvr6C7nDBXVRmX09MO', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:30:47,234-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:30:47,610-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:30:47,610-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:30:47,611-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:30:47,611-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT6F3BB56EF2F1C1540757F10557C84121', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'qUxINu5SzytTn5WBvlOGemyriyJaYLI7', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:30:47,613-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:30:55,893-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:30:56,180-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:30:56,180-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:30:56,181-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:30:56,181-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTB7F0E30574C50562ACFC1CD4F5B1DB31', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'bwjVrYLD1TGgc8RYL79HOx7Ww9sytYlK', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:30:56,182-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:31:11,015-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:31:11,343-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:31:11,344-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:31:11,344-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:31:11,344-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT55AE70C2DEF451041E286D0DCD795FAD', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'c5jOcG3fgSe7Pc4ZcmVLj8R8HtAY6nco', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:31:11,345-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:46:21,218-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:46:21,953-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:46:21,953-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:46:21,954-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:46:21,954-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT13081C9C0A723F2DCB5B5C343EADB698', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'hjpxftY89rJi6PfJcNzyUlBr6D5FUfod', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:46:21,955-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:47:17,548-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:47:18,251-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:47:18,252-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:47:18,252-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:47:18,254-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT43C98580D3CD460FBE597FA41EFBE240', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'Jc7T3C3UssPEZwNStxh1IKrU4oFPadyT', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:47:18,254-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:48:34,065-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:48:34,704-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:48:34,705-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:48:34,705-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:48:34,705-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTE134F000089AD830CD26B33E06567D43', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'Yr3qdokjUZDT7TVxwynch5qh6dJ20oyR', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:48:34,707-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:50:26,736-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:50:27,437-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:50:27,437-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:50:27,437-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:50:27,438-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTDCC88E7F77C8311233B1E5A751A1FCB8', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'RbmO5dwRgR6VbRvh3X0K6Dd0u3LNePse', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:50:27,440-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:50:39,739-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:50:40,382-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:50:40,382-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:50:40,382-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:50:40,383-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT039413CB61A7F8CBD1D8D2108C58A02F', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'n4Uoy8p5owaeJX3Su1NLeUaSMs1pU4mA', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:50:40,384-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:50:59,365-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:51:00,053-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:51:00,054-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:51:00,054-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:51:00,054-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTD9CA995D8C91BC4DDC0FD6CF0113974E', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': '13cae9ieUaXy8wivA6yGZwGUtUURAsoA', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:51:00,055-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:51:08,109-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:51:08,766-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:51:08,766-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:51:08,767-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:51:08,767-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT0C804C9A95B1F717FA53F11AF5420837', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'NnDc8NwVQX6Mt6eYOGTGjoQiv9DoTE0n', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:51:08,769-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:51:46,365-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:51:47,017-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:51:47,018-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:51:47,018-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:51:47,018-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTF8B03A2205C4AED355E6FEE952603930', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'GxPiYtMWFOSkuNXZk23GZlPAwftDhNrj', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:51:47,019-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:52:03,194-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:52:03,850-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:52:03,850-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:52:03,851-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:52:03,851-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT1681BC14235B40DBB99E6CE6922441F2', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'nP800FyaK1QFvNSpPh30jAGOHvUgfzIf', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:52:03,852-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:53:53,836-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:53:54,568-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:53:54,568-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:53:54,568-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:53:54,569-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTA9071895B5F61C53C7280DB6ED8D36B7', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': '0kJWBcVMY5mi6Acya3fuX8xHS32WB0dn', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:53:54,570-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:54:16,044-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:54:16,686-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:54:16,687-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:54:16,687-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:54:16,688-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT7B813D38F03416A7CE51493F680E2CF4', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'm21rPWbhgHwFzRKwIUbZlEhFTltDWnEQ', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:54:32,650-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:54:40,499-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:54:41,172-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:54:41,173-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:54:41,173-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:54:41,174-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT85CA8C4386ECFD3211F0122A1C5E75EF', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'lclnwILAULHSK8rH9PA9MPIFyBIZ2hXZ', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:57:17,794-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:57:24,780-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:57:25,193-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:57:25,194-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:57:25,194-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:57:25,194-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT8BD999DF667A56ECC5F890FEBE761524', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'uBFWPSe3ZxCQhvwhJTgTaSxaqbCkeV0x', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:57:25,196-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 16:59:06,883-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 16:59:07,146-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 16:59:07,146-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 16:59:07,146-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 16:59:07,147-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT2D5CC5E4ED793C11B1E251D27C45CC11', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'J8fYtUE4pEgW7N6bfQ0ThsJtcczuYETb', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 16:59:07,147-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:00:32,122-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:00:32,389-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:00:32,389-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:00:32,389-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:00:32,390-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT57B5BF9786208CD59DAACE9A64E15865', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'oXyTkmPNbTXF4dcGyEduAVlsXYiXGpe1', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:00:32,392-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:01:24,942-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:01:25,293-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:01:25,294-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:01:25,294-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:01:25,294-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTA4DB305528F481A0A4B7D280A0DE90A5', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'ekM3RY9HMmGntJ8ZPhh8DQWZpW09eS0B', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:01:25,296-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:01:32,005-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:01:32,354-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:01:32,354-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:01:32,355-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:01:32,355-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT616AA17B4AA13459CFE1970B0ADDAB4F', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'fmeH0WL7XKWsxbuc9oe9uF6E52tjVje3', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:02:18,651-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:08:05,224-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:08:05,587-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:08:05,587-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:08:05,587-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:08:05,588-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTC9B5DBE65E03FA58F04C052CCF806AA4', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'uXjEtx0GC8Wi5Fm131eXNs5P9Gq2Ar2n', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:08:05,588-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:08:37,299-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:08:37,565-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:08:37,565-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:08:37,565-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:08:37,565-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT4F00DEF6371371B0262B9EB4EED5A2F2', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': '6uvR2YhfBQjMQwFRBKIo6VngdSnnWdBo', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:08:37,577-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:19:24,961-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:19:25,341-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:19:25,341-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:19:25,341-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:19:25,342-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT716FDCC0F01B2734DC82AA4F7935CCAC', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': '2alUSc2YHd24xWduUzrobUH4kexREouH', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:19:25,343-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:27:18,818-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:27:19,189-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:27:42,119-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:27:42,441-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:27:42,442-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:27:42,442-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:27:42,444-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT82E87BBD763912A42DB99813DC184A83', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'ITyUjY1OSXpWSA1wxkvcm24oDyqbUX2j', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:27:42,444-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:32:51,460-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:32:51,822-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:32:51,822-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:32:51,823-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:32:51,823-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT256314F1DE50CE975D94B8FE1AF8326A', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'RRh8zae5X7uPnwgl3nwR8LwEuXcl3Ds4', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:32:51,823-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:38:47,475-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:38:47,886-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:38:47,886-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:38:47,886-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:38:47,887-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT867FABBFC9C964A2139AA42C2DB87D70', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'nUGT5CqPQrJkvGzD76Ka37Ejgi6MmBfx', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:38:47,888-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:45:20,669-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:45:21,032-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:45:21,032-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:45:21,032-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:45:21,033-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT7915E965645AA2BA5228E0B3FA71AB19', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'B2dcUoHXZTDxW8szwq7TEg2fvM3CB9yf', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:45:21,034-INFO-pylog.py-py日志-日志信息：lallalla
+2021-03-29 17:45:21,034-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:46:30,153-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:46:30,455-INFO-pylog.py-py日志-日志信息：lallalla
+2021-03-29 17:46:30,456-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:46:30,456-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:46:30,456-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:46:30,456-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT108C184F1304C2CF5E92CA98AC2AA642', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': '0bsEAEUENgZZeWL9B1ANckTtX6ewYAoO', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:46:30,457-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:46:46,052-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:46:46,355-INFO-pylog.py-py日志-日志信息：lallalla
+2021-03-29 17:46:46,355-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:46:46,356-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:46:46,356-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:46:46,356-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTA8C982CA922632937F4B02B82F8987D9', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': '6BJ9E5shAHlb2thXroJTzA9iFDy44clS', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:46:46,358-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:48:31,657-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:48:32,037-INFO-pylog.py-py日志-日志信息：lallalla
+2021-03-29 17:48:32,038-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:48:32,038-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:48:32,038-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:48:32,038-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT491F01E9852F6EB33D179F675A99E711', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'W0liYw5AyOi25TnJ3dMUdhdMQpeBPL80', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:48:32,039-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:54:28,913-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:54:29,250-INFO-pylog.py-py日志-日志信息：<class 'dict'>
+2021-03-29 17:54:29,250-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:54:29,251-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:54:29,251-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:54:29,252-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT7684C299692512D4FB5AA482A1561EC5', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'mqPZQKjV6ZFOKjDPaAdnZYqIjWVWXcrR', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:54:29,253-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:54:58,047-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:54:58,310-INFO-pylog.py-py日志-日志信息：{'code': 1, 'result': 'fail'}
+2021-03-29 17:54:58,310-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:54:58,310-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:54:58,311-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:54:58,311-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT44636D77CF2E2AB449D445FD25B70B3A', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'DGdAOPbMZBKndncjv8EACNyX5Fyy2Xdk', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:54:58,311-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:55:44,425-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 17:55:44,720-INFO-pylog.py-py日志-日志信息：{'code': 1, 'result': 'fail'}
+2021-03-29 17:55:44,721-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 17:55:44,721-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 17:55:44,722-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 17:55:44,722-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT7A9C541DB427B5E173A16D41CD79847D', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'XLE8IqDgx97N4MafUshlBZ5iWI47G2FB', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 17:55:44,723-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 17:56:37,094-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 18:00:49,973-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 18:00:50,336-INFO-pylog.py-py日志-日志信息：pass
+2021-03-29 18:00:50,337-INFO-pylog.py-py日志-日志信息：{'code': 1, 'result': 'fail'}
+2021-03-29 18:00:50,337-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 18:00:50,337-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 18:00:50,338-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 18:00:50,338-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTFD2E5CAAA9DD018C4421AE45AE7DBE92', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'Xqjkuu5OXXFLtjh8H32teSCPTLl8pUJp', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 18:00:50,340-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 18:01:00,876-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 18:01:01,204-INFO-pylog.py-py日志-日志信息：{'code': 1, 'result': 'fail'}
+2021-03-29 18:01:01,205-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 18:01:01,205-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 18:01:01,205-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 18:01:01,206-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT541B878D51D9CDBD835899BA7B67F0BA', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'EijlgAiWW10KDZJ0h1cIbT4MhuJKS1ZC', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 18:01:01,206-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 18:01:36,738-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 18:01:37,000-INFO-pylog.py-py日志-日志信息：fail
+2021-03-29 18:01:37,000-INFO-pylog.py-py日志-日志信息：{'code': 1, 'result': 'fail'}
+2021-03-29 18:01:37,000-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 18:01:37,001-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 18:01:37,001-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 18:01:37,001-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KTE9A634343E4D36A9684BE195754D03A3', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'omZHanOltsOAfxDi1ybY3ERIMNVghHmZ', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 18:01:37,003-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 18:02:33,792-INFO-pylog.py-py日志-日志信息：测试用例开始执行！
+2021-03-29 18:02:34,096-INFO-pylog.py-py日志-日志信息：fail
+2021-03-29 18:02:34,097-INFO-pylog.py-py日志-日志信息：{'code': 1, 'result': 'fail'}
+2021-03-29 18:02:34,097-INFO-pylog.py-py日志-日志信息：正在执行测试用例！!!
+2021-03-29 18:02:34,097-INFO-pylog.py-py日志-日志信息：正在执行正常登录测试用例
+2021-03-29 18:02:34,098-INFO-pylog.py-py日志-日志信息：============================测试结果============================
+2021-03-29 18:02:34,098-INFO-pylog.py-py日志-日志信息：这是测试返回的结果{'status': 1, 'msg': '', 'data': {'token': '5344-KT3436C50B1070EE5B5FC2D696DF46B6EA', 'uid': 5344, 'nickname': '我要喝可乐', 'gender': 0, 'avatar': 'https://images.e-gets.io/upload/default/member_face.png', 'language': 1, 'bind_id': 0, 'mobile': '85516273817', 'uuid': 8616626858229760, 'u_token': 'Tmfyb6KUdnQBgI9OQlRAweNwGm3lsH3S', 'u_token_expired_at': 0, 'today_login_out_times': 0, 'country_code': '855', 'sns_bind': '', 'created_new_password': ''}}
+2021-03-29 18:02:34,098-INFO-pylog.py-py日志-日志信息：============================测试用例执行完毕！============================
+2021-03-29 18:03:39,567-INFO-pylog.py-py日志-日志信息：测试用例开始执行！

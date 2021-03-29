@@ -6,7 +6,7 @@ from tools.dict_value import res
 def assert_in(assertexcepted, assertresult):
     if len(assertexcepted.split('=')) > 1:
         data = assertexcepted.split('&')
-        result = dict([(item.split('=') for item in data)])
+        result = dict([(item.split('=')) for item in data])
         value1 =([(str(res(assertresult, key))) for key in result.keys()])
         value2 = ([(str(value)) for value in result.values()])
         if value1 == value2:
