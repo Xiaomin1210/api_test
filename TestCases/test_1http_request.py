@@ -1,5 +1,5 @@
 # -*- coding:utf-8 _*-
-import unittest
+import unittest,logger
 from ddt import ddt,data
 from tools.do_excel import Do_excel
 from tools.project_path import ProjectPath
