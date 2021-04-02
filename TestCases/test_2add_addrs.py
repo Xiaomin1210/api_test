@@ -7,6 +7,7 @@ from tools.project_path import ProjectPath
 from tools.pylog import MyLog
 from tools.http_requests import Http_requests
 from test_data.helper import globals_data
+from tools.assert_result import AssertResult
 
 
 
@@ -58,19 +59,30 @@ class TestAddAddrs(unittest.TestCase):
         #     globals_data['addr_id'] = res.json()['error']
         # # elif res.json()['error']:
         # #     pass
-
         try:
-            self.assertEqual(str(items['excepted']), str(res.json()['error']))
-            TestResult = 'Pass'
-
-        except AssertionError as e:
-            my_logger.error('测试用例报错啦！{0}'.format(e))
-            TestResult = 'Faile'
-
+            test_rusult = (AssertResult(excepted=items['excepted'], actual=res.json()).assert_true())
+            if test_rusult == True:
+                write_result = 'pass'
+            elif test_rusult == False:
+                write_result = 'fail'
+        except Exception as e:
+            my_logger.info('断言出错啦！，错误如下: %s' % e)
         finally:
             Do_excel().write_back(ProjectPath.test_data_path, 'Sheet1', int(items['case_id'] + 1), str(res.json()),
-                                  TestResult)
+                                  write_result)
             return res
+        # try:
+        #     self.assertEqual(str(items['excepted']), str(res.json()['error']))
+        #     TestResult = 'Pass'
+        #
+        # except AssertionError as e:
+        #     my_logger.error('测试用例报错啦！{0}'.format(e))
+        #     TestResult = 'Faile'
+        #
+        # finally:
+        #     Do_excel().write_back(ProjectPath.test_data_path, 'Sheet1', int(items['case_id'] + 1), str(res.json()),
+        #                           TestResult)
+        #     return res
 
     def tearDown(self):
         my_logger.info('============================测试用例执行完毕！============================')
