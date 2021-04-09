@@ -50,12 +50,14 @@ class TestCreateOrder(unittest.TestCase):
         excepted_data = res.json()
         for key in excepted_data.keys():
             try:
-                if res.json()['data']['amount']:
+                if key == res.json()['data']['order_id']:
+                    my_logger.info('3')
+
+                if key == res.json()['data']['amount']:
                     my_logger.info('1')
                 # if res.json()['data']['addr_id']:
                 #     my_logger.info('2')
-                if res.json()['data']['order_id']:
-                    my_logger.info('3')
+
                     # globals_data['addr_id'] = res.json()['error']
                     print(res.json())
                     globals_data['order_id'] = str(res.json()['data']['order_id'])
