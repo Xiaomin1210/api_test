@@ -32,39 +32,20 @@ class TestCreateOrder(unittest.TestCase):
 
             if items['data'].find('$'+j) != -1:
                 items['data'] = items['data'].replace('$'+j, globals_data[j])
-            # elif items['header'].find('$'+j) != -1:
-            #     items['header'] = items['header'].replace('$' + j, globals_data[j])
-            # if items['result'].find('$'+j) != -1:
-            #     items['data'] = items['data'].replace('$'+j,globals_data[j])
-            # elif items['result'].find('$'+j) != -1:
-            #     items['data']
+
         my_logger.info(items)
         res = Http_requests().http_requests(items['url'], eval(items['data']), items['http_method'], headers=eval(items['headers']))
-
+        try:
+            res.json()['data']['order_id']
+            globals_data['order_id'] = str(res.json()['data']['order_id'])
+        except:
+            pass
+        #
         my_logger.info('正在执行{0}测试用例'.format(items['title']))
         my_logger.info('============================测试结果============================')
         my_logger.info('这是测试返回的结果{0}'.format(res.json()))
+
         # my_logger.info('这是添加的收货地址id：{0}'.format(res.json()['data']['addr_id']))
-        # if res.json()['data']['addr_id']:
-        #     globals_data['addr_id'] = res.json()['data']['addr_id']
-        excepted_data = res.json()
-        for key in excepted_data.keys():
-            try:
-                if key == res.json()['data']['order_id']:
-                    my_logger.info('3')
-
-                if key == res.json()['data']['amount']:
-                    my_logger.info('1')
-                # if res.json()['data']['addr_id']:
-                #     my_logger.info('2')
-
-                    # globals_data['addr_id'] = res.json()['error']
-                    print(res.json())
-                    globals_data['order_id'] = str(res.json()['data']['order_id'])
-            except Exception as e:
-                raise e
-                # elif res.json()['error']:
-                #     pass
 
         try:
             test_rusult = (AssertResult(excepted=items['excepted'], actual=res.json()).assert_true())
