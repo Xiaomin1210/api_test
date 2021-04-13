@@ -11,7 +11,8 @@ class ProjectPath:
     test_data_path = os.path.join(project_path, 'test_data', 'test_data.xlsx')
     nowtime = time.strftime("%Y-%m-%d-%H_%M_%S", time.localtime())
     # 测试报告的路径
-    test_result_path = os.path.join(project_path, 'testResult', '{0}_test_html.html'.format(nowtime))
+    # test_result_path = os.path.join(project_path, 'testResult', '{0}_test_html.html'.format(nowtime))
+    test_result_path = os.path.join(project_path, 'testResult', 'test_result.html')
 
     # 配置文件的路径
     test_conf_path = os.path.join(project_path, 'conf', 'conf.config')
